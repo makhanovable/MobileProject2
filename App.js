@@ -21,6 +21,7 @@ import { StyleSheet, Text, View } from 'react-native';
 //});
 let id = 0;
 
+// Makhanov Madiyar, 20MD0195
 class App extends React.Component {
 
   constructor() {
